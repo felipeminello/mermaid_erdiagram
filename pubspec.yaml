@@ -1,0 +1,36 @@
+name: mermaid_erdiagram
+description: >-
+  Native Mermaid entity relationship diagram (erDiagram) rendering for
+  Flutter, no WebView: attribute tables with keys and comments, crow's foot
+  markers, subgraphs and light/dark themes.
+version: 0.1.0
+repository: https://github.com/felipeminello/mermaid_erdiagram
+issue_tracker: https://github.com/felipeminello/mermaid_erdiagram/issues
+topics:
+  - mermaid
+  - erd
+  - diagram
+  - database
+  - visualization
+
+screenshots:
+  - description: An ER diagram with attribute tables, keys and comments.
+    path: doc/attributes_light.png
+  - description: The same diagram with the dark palette.
+    path: doc/attributes_dark.png
+  - description: An order model laid out left to right.
+    path: doc/orders.png
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mermaid_flowchart: ^0.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
