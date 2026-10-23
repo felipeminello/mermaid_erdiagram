@@ -1,3 +1,8 @@
+## 0.1.1
+
+- Shorten the package description in `pubspec.yaml` so it fits pub.dev's
+  recommended length.
+
 ## 0.1.0
 
 - Initial release.
