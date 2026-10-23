@@ -1,9 +1,9 @@
 name: mermaid_erdiagram
 description: >-
-  Native Mermaid entity relationship diagram (erDiagram) rendering for
-  Flutter, no WebView: attribute tables with keys and comments, crow's foot
-  markers, subgraphs and light/dark themes.
-version: 0.1.0
+  Native Mermaid ER diagram (erDiagram) rendering for Flutter, no WebView:
+  attribute tables with keys and comments, crow's foot markers, subgraphs
+  and light/dark themes.
+version: 0.1.1
 repository: https://github.com/felipeminello/mermaid_erdiagram
 issue_tracker: https://github.com/felipeminello/mermaid_erdiagram/issues
 topics:
